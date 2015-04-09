@@ -1,0 +1,20 @@
+{
+  "name": "Bici-i",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pony012/Bici-i",
+  "authors": [
+    "Alan Andrés Sánchez Castro <pony.alanandres@gmail.com>"
+  ],
+  "description": "Plataforma Web de Bici-i",
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.3.0"
+  }
+}
