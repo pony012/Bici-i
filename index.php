@@ -10,7 +10,6 @@
 	<link href="bower_components/bootstrap-material-design/dist/css/roboto.min.css" rel="stylesheet">
 	<link href="bower_components/bootstrap-material-design/dist/css/material.min.css" rel="stylesheet">
 	<link href="bower_components/bootstrap-material-design/dist/css/ripples.min.css" rel="stylesheet">
-	<link href="bower_components/video.js/dist/video-js/video-js.css" rel="stylesheet">
 
 	<style type="text/css">
 		.form-control-wrapper{
@@ -60,7 +59,6 @@
 
 	<script src="bower_components/jquery/dist/jquery.min.js"></script>
 	<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-	<link href="bower_components/video.js/dist/video-js/video.js" rel="stylesheet">
 	<script src="bower_components/bootstrap-material-design/dist/js/ripples.min.js"></script>
 	<script src="bower_components/bootstrap-material-design/dist/js/material.min.js"></script>
 	<script>
