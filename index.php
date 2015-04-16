@@ -23,6 +23,13 @@
 	<title>Bici-i</title>
 </head>
 <body>
+	<?php
+		$mysqli = new mysqli("localhost","bici-i","astrum1234","zadmin_bici-i");
+		if($mysqli->connect_error)
+			echo "Error";
+		else
+			print_r($mysqli);
+	?>
 	<div class="container">
 		<div class="col-md-7">
 			<div class="well">
