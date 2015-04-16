@@ -24,7 +24,8 @@
 </head>
 <body>
 	<?php
-		$mysqli = new mysqli("localhost","bici-i","astrum1234","zadmin_bici-i");
+		include_once 'config_bici_db_i.cf';
+		$mysqli = new mysqli(__SERVER_NAME__,__USER_NAME__,__PASS__,__DB_NAME__);
 		if($mysqli->connect_error)
 			echo "Error";
 		else
